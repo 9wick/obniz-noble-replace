@@ -1,0 +1,9 @@
+{
+  "name": "noble-replace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "obniz-noble": "^2.0.0"
+  }
+}
